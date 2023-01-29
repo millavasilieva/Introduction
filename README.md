@@ -6,6 +6,6 @@ I'm Mila Vasilyeva, Data Scientist interested in **NLP**. I graduated MSU with b
 
 I enjoy learning new technology and i would love to contribute to more Open Source projects. I mainly use **Python** language, but i would love to learn new languages as well. I learnt how to work with **Pandas, Numpy, PyTorch, Streamlit** and I like to experiment with new libraries for visualization to test them out.
 
-Aside from tech world I enjoy different kinds of Sports: **dance** competitions, playing **tennis**, **running**. I also am a fan of the **board games**, so if you have any good ones in mind, I would love to hera any suggestions from you, so feel free to share!
+Aside from tech world I enjoy different kinds of Sports: **dance** competitions, playing **tennis**, **running**. I also am a fan of the **board games**, so if you have any good ones in mind, I would love to hear about them, so feel free to share!
 
 ![instagram](https://img.shields.io/badge/Instagram-#E4405F?style=for-the-badge&logo=Instagram&logoColor=pink)
