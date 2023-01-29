@@ -10,7 +10,7 @@ Aside from tech world I enjoy different kinds of Sports: **dance** competitions,
 
 ## You can contact me here:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.millavasilieva@gmail.com)
-[![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.AdrovAlex.ds@gmail.com)
+<!-- [![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.AdrovAlex.ds@gmail.com) -->
 
 ### Stack:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org)
@@ -25,4 +25,4 @@ Aside from tech world I enjoy different kinds of Sports: **dance** competitions,
 
 ### CodeWars:
 
-![CodeWars](https://www.codewars.com/users/millavasilieva/badges/large)
+![CodeWars](https://www.codewars.com/users/millaburunduk.vasilieva/badges/large)
