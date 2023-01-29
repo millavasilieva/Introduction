@@ -8,4 +8,4 @@ I enjoy learning new technology and i would love to contribute to more Open Sour
 
 Aside from tech world I enjoy different kinds of Sports: *dance* competitions, playing *tennis*, *running*. I also am a fan of the *board games*, so if you have any good ones in mind, I would love to get any suggestions!
 
-![instagram](https://img.shields.io/badge/instagram-#E4405F?style=for-the-badge&logo=instagram&logoColor=#E4405F)
+![instagram](https://img.shields.io/badge/instagram-#E4405F?style=for-the-badge&logo=instagram&logoColor=pink)
