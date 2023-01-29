@@ -8,4 +8,5 @@ I enjoy learning new technology and i would love to contribute to more Open Sour
 
 Aside from tech world I enjoy different kinds of Sports: **dance** competitions, playing **tennis**, **running**. I also am a fan of the **board games**, so if you have any good ones in mind, I would love to hear about them, so feel free to share!
 
-![instagram](https://img.shields.io/badge/Instagram-#E4405F?style=for-the-badge&logo=Instagram&logoColor=pink)
+# You can contact me here:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.millavasilieva@gmail.com)
