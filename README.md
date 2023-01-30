@@ -4,7 +4,7 @@ Welcome to my page!
 ## About me
 I'm Mila Vasilyeva, Data Scientist interested in **NLP**. I graduated MSU with bachelor's and master's degree in **Theoretical and Computational Linguistics**, so it's easy to assume that I adore **languages** and I can actually speak or understand quite a few of them: **Russian**, **English**, a bit of **Spanish**. I would love to learn one of the asian languages as well.
 
-I enjoy learning new technology and i would love to contribute to more Open Source projects. I mainly use **Python** language, but i would love to learn new languages as well. I learnt how to work with **Pandas, Numpy, PyTorch, Streamlit** and I like to experiment with new libraries for visualization to test them out.
+I enjoy learning new technology and would love to contribute to more Open Source projects. I mainly use **Python** language, but my plans are to learn new languages as well. I learnt how to work with **Pandas, Numpy, PyTorch, Streamlit** and it's interesting to experiment with new libraries for visualization to test them out.
 
 Aside from tech world I enjoy different kinds of Sports: **dance** competitions, playing **tennis**, **running**. I also am a fan of the **board games**, so if you have any good ones in mind, I would love to hear about them, so feel free to share!
 
